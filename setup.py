@@ -8,7 +8,7 @@ setup(
   author = 'builderpepc',
   author_email = 'troy.hiruka@gmail.com',
   url = 'https://github.com/builderpepc/zoomwrap',
-  download_url = 'hhttps://github.com/builderpepc/zoomwrap/archive/v0.1.tar.gz',
+  download_url = 'https://github.com/builderpepc/zoomwrap/archive/v0.1.tar.gz',
   keywords = ['zoom', 'zoom.us', 'zoom-api', 'bot'],
   install_requires=[
           'requests',
