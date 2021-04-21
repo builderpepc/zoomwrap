@@ -7,7 +7,7 @@ long_description = (here / 'README.md').read_text(encoding='utf-8')
 setup(
   name = 'zoomwrap',
   packages = ['zoomwrap'],
-  version = '0.1',
+  version = '0.1.1',
   license='MIT',
   description = 'A module containing classes that can be easily serialized to JSON for use with Zoom\'s APIs.',   # Give a short description about your library
   author = 'builderpepc',
