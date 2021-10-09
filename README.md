@@ -2,6 +2,8 @@
 
 A module containing classes that can be easily serialized to JSON for use with Zoom's APIs.
 
+⚠️*This code still works, but was written poorly at a time when I was not as familiar with how Python modules are structured and written. Please keep this in mind if you use this package (and feel free to improve it).*
+
 ```py
 import zoomwrap
 
